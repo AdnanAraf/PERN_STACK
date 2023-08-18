@@ -1,1 +1,1 @@
-https://64d9d49fbc78e70eeed0fe3f--magenta-pasca-ac9e35.netlify.app/
+https://64db8699695b0f673a8207f1--dapper-marshmallow-84d6a7.netlify.app/
